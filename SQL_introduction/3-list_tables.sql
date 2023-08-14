@@ -2,4 +2,4 @@
 
 USE mysql;
 
-SHOW tables;
+SHOW TABLES;
