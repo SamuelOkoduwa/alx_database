@@ -2,6 +2,6 @@
 
 USE hbtn_test_db_7;
 
-INSERT INTO first_table VALUES(
-	89, "Holberton School"
+INSERT INTO first_table 
+	VALUES(89, 'Holberton School'
 );
