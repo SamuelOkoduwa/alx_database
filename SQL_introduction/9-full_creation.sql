@@ -12,13 +12,13 @@ CREATE TABLE IF NOT EXISTS second_table (
 
 -- Insecting New Records
 INSECT INTO second_table
-VALUES(1, "John", 10);
+VALUES(1, 'John', 10);
 
 INSECT INTO second_table
-VALUES(2, "Alex", 3);
+VALUES(2, 'Alex', 3);
 
 INSECT INTO second_table
-VALUES(3, "Bob", 14);
+VALUES(3, 'Bob', 14);
 
 INSECT INTO second_table
-VALUES(4, "George", 8);
+VALUES(4, 'George', 8);
