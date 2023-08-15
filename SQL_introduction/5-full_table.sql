@@ -1,7 +1,4 @@
---write a script that prints the full description of the table
+-- script that prints the full description of the table first_table from the database hbtn_0c_0
 
-USE hbtn_test_db_5;
+USE hbtn_test_db_5
 SHOW CREATE TABLE first_table;
--- SHOW COLUMNS FROM first_table FROM hbtn_test_db_6;
-
-
