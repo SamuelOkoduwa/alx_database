@@ -5,9 +5,9 @@ USE hbtn_test_db_9;
 
 -- creating a table
 CREATE TABLE IF NOT EXISTS second_table (
-	id int,
+	id INT,
 	name VARCHAR(256),
-	score int
+	score INT
 );
 
 -- Insecting New Records
@@ -18,7 +18,7 @@ INSECT INTO second_table
 VALUES(2, "Alex", 3);
 
 INSECT INTO second_table
-VALUES(3, "John", 14);
+VALUES(3, "Bob", 14);
 
 INSECT INTO second_table
-VALUES(4, "John", 8);
+VALUES(4, "George", 8);
